@@ -40,3 +40,49 @@ tshirt_collection.append(shirt_three )
 
 for i in range(len(tshirt_collection)):
    print (tshirt_collection[i].color)
+
+
+
+'''
+f(x ∣ μ,σ 
+2
+ )= 
+2πσ 
+2
+ 
+​
+ 
+1
+​
+ e 
+−
+  
+2σ 
+2
+ 
+(x−μ) 
+2
+ 
+​
+ 
+where:
+μ
+ is the mean
+σ
+  is the standard deviation
+σ
+2
+ is the variance
+where:
+μ
+σ
+σ
+​
+  
+ is the mean
+  is the standard deviation
+2
+  is the variance
+​
+
+'''
